@@ -14,7 +14,7 @@ Weitere Infos und einen Rückblick auf die 17 Wettbewerbsrunden seit dem Jahr 20
 
 ~
 
-The [German Informatics Society](https://gi.de) hosts the [informatiCup](https://informaticup.github.io/) collegiate computer science competition - in 2022 for the 18th consecutive time.
+The [German Informatics Society](https://gi.de) hosts the [informatiCup](https://informaticup.github.io/) collegiate computer science competition - in 2023 for the 18th consecutive time.
 
 The challenge for the [informatiCup 2023](https://informaticup.github.io/competition/20-current) will be released end of September in course of the [Studierendenkonferenz Informatik (SKILL)](https://skill.gi.de/).
 
