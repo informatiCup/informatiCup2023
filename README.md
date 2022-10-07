@@ -4,8 +4,6 @@
 
 Die [Gesellschaft für Informatik](https://gi.de) veranstaltet den [informatiCup](https://informaticup.github.io/) - im Jahr 2023 bereits im 18. Jahr in Folge.
 
-Die Aufgabe für den [informatiCup 2023](https://informaticup.github.io/competition/20-current) wird wieder Ende September im Rahmen der [Studierendenkonferenz Informatik (SKILL)](https://skill.gi.de/) vorgestellt und damit der neue Wettbewerb gestartet.
-
 Die Anmeldung zum Wettbewerb findet über das Online-Portal [Teammates](https://teams.informaticup.de/) statt. Benutzerkonten aus dem letzten Jahr sind dafür weiterhin gültig. Nur die Teams müssen für die neue Wettbewerbsrunde neu angelegt werden.
 
 Weitere Infos und einen Rückblick auf die 17 Wettbewerbsrunden seit dem Jahr 2005 gibt es auf der [offiziellen informatiCup-Webseite](https://informaticup.github.io/).
@@ -13,8 +11,6 @@ Weitere Infos und einen Rückblick auf die 17 Wettbewerbsrunden seit dem Jahr 20
 ~
 
 The [German Informatics Society](https://gi.de) hosts the [informatiCup](https://informaticup.github.io/) collegiate computer science competition - in 2023 for the 18th consecutive time.
-
-The challenge for the [informatiCup 2023](https://informaticup.github.io/competition/20-current) will be released end of September in course of the [Studierendenkonferenz Informatik (SKILL)](https://skill.gi.de/).
 
 Sign up for the competition via the online portal [Teammates](https://teams.informaticup.de/). Existing user accounts remain valid for the current competition. Just assemble and register the new teams.
 
